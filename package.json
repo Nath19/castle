@@ -20,7 +20,9 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
     "node-fetch": "^2.3.0",
+    "promise": "^8.0.2",
     "puppeteer": "^1.11.0",
     "request": "^2.88.0"
   }

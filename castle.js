@@ -5,7 +5,7 @@ var fichierJson = [];
 (async function main() {
     try {
         //We launch a virtual browser in chromium, we chose not to show it by putting the headless variable at true
-        const browser = await puppeteer.launch({ headless: true })
+        const browser = await puppeteer.launch({ headless: false })
         //We create a new page on the browser
         const page = await browser.newPage()
 
@@ -31,7 +31,7 @@ var fichierJson = [];
             //We check if the hotels have Restaurants and we print the list in the console and in the JSON file
             if (restaurant === "Hotel + Restaurant") {
                 console.log("{\"name\":\"" + name + "\"," + "\"link\":\"" + link + "\"," + "\"genre\":\"" + restaurant + "\"}");
-                fichierJson.push({ "hotel Name ": name, "link": link, "restaurant ": restaurant })
+                fichierJson.push({ "name": name, "link": link, "restaurant ": restaurant })
             }
         }
         //The URL's of all pages are weird, they are dispatched with the following order
@@ -54,7 +54,7 @@ var fichierJson = [];
                 const restaurant = await section.$eval('span', span => span.innerText);
                 if (restaurant === "Hotel + Restaurant") {
                     console.log("{\"name\":\"" + name + "\"," + "\"link\":\"" + link + "\"," + "\"genre\":\"" + restaurant + "\"}");
-                    fichierJson.push({ "hotel Name ": name, "link": link, "restaurant ": restaurant })
+                    fichierJson.push({ "name": name, "link": link, "restaurant ": restaurant })
 
                 }
             }

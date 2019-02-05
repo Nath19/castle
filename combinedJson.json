@@ -1,70 +1,122 @@
 [
     {
         "hotel Name ": "Anne de Bretagne",
+        "hotel Price": "130.00",
         "Chef Name": "Mathieu Guibert"
     },
     {
         "hotel Name ": "Assiette Champenoise",
+        "hotel Price": "185.50",
         "Chef Name": "Arnaud Lallement"
     },
     {
         "hotel Name ": "Auberge des Templiers",
+        "hotel Price": "109.00",
         "Chef Name": "Martin Simonart"
     },
     {
         "hotel Name ": "Château Cordeillan-Bages",
+        "hotel Price": "170.00",
         "Chef Name": "Julien Lefebvre"
     },
     {
         "hotel Name ": "Château de la Treyne",
-        "Chef Name": "Stéphane Andrieux"
-    },
-    {
-        "hotel Name ": "Château de la Treyne",
-        "Chef Name": "Stéphane Andrieux"
-    },
-    {
-        "hotel Name ": "Château de la Treyne",
+        "hotel Price": "250.00",
         "Chef Name": "Stéphane Andrieux"
     },
     {
         "hotel Name ": "Domaine de Rochevilaine",
+        "hotel Price": "213.00",
         "Chef Name": "Maxime Nouail"
     },
     {
         "hotel Name ": "Flocons de Sel",
+        "hotel Price": "430.00",
         "Chef Name": "Emmanuel Renaut"
     },
     {
         "hotel Name ": "Hostellerie de Levernois",
+        "hotel Price": "150.00",
         "Chef Name": ""
     },
     {
         "hotel Name ": "Hostellerie de Plaisance",
+        "hotel Price": "280.00",
         "Chef Name": "Ronan Kervarrec"
     },
     {
-        "hotel Name ": "La Grande Maison de Bernard Magrez",
-        "Chef Name": "Jean-Denis Lebras"
+        "hotel Name ": "Domaine de Rochevilaine",
+        "hotel Price": "213.00",
+        "Chef Name": "Maxime Nouail"
     },
     {
-        "hotel Name ": "La Grenouillère",
-        "Chef Name": "Alexandre Gauthier"
+        "hotel Name ": "Flocons de Sel",
+        "hotel Price": "430.00",
+        "Chef Name": "Emmanuel Renaut"
     },
     {
-        "hotel Name ": "La Grande Maison de Bernard Magrez",
-        "Chef Name": "Jean-Denis Lebras"
+        "hotel Name ": "Hostellerie de Levernois",
+        "hotel Price": "150.00",
+        "Chef Name": ""
     },
     {
-        "hotel Name ": "La Grenouillère",
-        "Chef Name": "Alexandre Gauthier"
+        "hotel Name ": "Hostellerie de Plaisance",
+        "hotel Price": "280.00",
+        "Chef Name": "Ronan Kervarrec"
     },
     {
-        "hotel Name ": "La Grande Maison de Bernard Magrez",
-        "Chef Name": "Jean-Denis Lebras"
+        "hotel Name ": "Domaine de Rochevilaine",
+        "hotel Price": "213.00",
+        "Chef Name": "Maxime Nouail"
     },
     {
-        "hotel Name ": "La Grenouillère",
-        "Chef Name": "Alexandre Gauthier"
+        "hotel Name ": "Flocons de Sel",
+        "hotel Price": "430.00",
+        "Chef Name": "Emmanuel Renaut"
+    },
+    {
+        "hotel Name ": "Hostellerie de Levernois",
+        "hotel Price": "150.00",
+        "Chef Name": ""
+    },
+    {
+        "hotel Name ": "Hostellerie de Plaisance",
+        "hotel Price": "280.00",
+        "Chef Name": "Ronan Kervarrec"
+    },
+    {
+        "hotel Name ": "Le Vieux Logis",
+        "hotel Price": "170.00",
+        "Chef Name": "Vincent Arnould"
+    },
+    {
+        "hotel Name ": "Les Hautes Roches",
+        "hotel Price": "165.00",
+        "Chef Name": "Didier Edon"
+    },
+    {
+        "hotel Name ": "Maison Decoret",
+        "hotel Price": "117.81",
+        "Chef Name": "Jacques Decoret"
+    },
+    {
+        "hotel Name ": "Maison Lameloise",
+        "hotel Price": "180.00",
+        "Chef Name": "Eric Pras"
+    },
+    {
+        "hotel Name ": "Michel Trama",
+        "hotel Price": "220.00",
+        "Chef Name": "Michel Trama"
+    },
+    {
+        "hotel Name ": "Relais de la Poste",
+        "hotel Price": "162.00",
+        "Chef Name": "Jean Coussau"
+    },
+    {
+        "hotel Name ": "Villa René Lalique",
+        "hotel Price": -1,
+        "Chef Name": "Jean-Georges Klein et  Paul Stradner"
     }
 ]

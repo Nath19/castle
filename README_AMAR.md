@@ -18,14 +18,14 @@ nom du restaurant et le nom du chef du restaurant. Nous avons itéré cette opé
 du site Michelin afin de récupérer l'ensemble des restaurants étoilés de France. Nous avons ensuite stocké
 la liste dans un fichier JSON.
 
-###Relais Chateaux
+### Relais Chateaux
 Ensuite, nous sommes passés au site Relais et Châteaux. La structure de ce site était plus complexe. Pour
 récupérer les Hotels Restaurants de France, nous avons dû simuler l'ouverture du site ainsi que toutes les 
 étapes intermédiaires comme le passage à la page suivante afin de récupérer les données dont nous avions
 besoin grace à puppeteer recorder.Nous avons ensuite récupéré les données dans un fichier JSON.
 
 
-###Starred Restaurants
+### Starred Restaurants
 Nous avons par la suite créé un nouveau fichier JSON dans lequel nous avons combiné les deux fichiers JSON
 précédents afin d'avoir seulement la liste des hôtels dans lesquels il y avait des restaurants étoilés.
 
